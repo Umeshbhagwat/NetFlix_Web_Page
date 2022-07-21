@@ -1,6 +1,6 @@
 # **NetFlix_Web_Page**
 ---
-* I have Devloped NetFlix_Web_Page
+* I have Devloped NetFlix_Web_Page.
 * Main Target is to Make Web_Page Same As original NetFlix Web_page.
 * I have Devloped This Page Only With the help of HTML and CSS.
  ----
